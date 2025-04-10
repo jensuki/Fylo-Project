@@ -13,7 +13,7 @@ module.exports = {
         lightRed: 'hsl(0, 100%, 63%)'
       },
       fontFamily: {
-        sans: ['Railway', 'sans-serif'],
+        sans: ['Raleway', 'sans-serif'],
         opensans: ['Open Sans', 'sans-serif']
       },
       backgroundImage: (theme) => ({
